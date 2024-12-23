@@ -43,9 +43,9 @@ header .description{
 .cards{
     display: grid;
     grid-template-areas:
-        ". supervisor ."
-        "team-builder .karma"
-        ". calculator .";
+        ". team-builder ."
+        "supervisor .calculator"
+        ". karma .";
     gap: 20px;
     margin-top: 40px;;
     justify-content: center; 
